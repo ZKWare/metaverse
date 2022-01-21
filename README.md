@@ -1,6 +1,8 @@
 # 元宇宙精选汇总（持续更新）
 关于元宇宙的精彩项目和信息资源列表。由于关于什么是元宇宙存在许多相互竞争的想法，请随时以拉取请求、问题和评论的形式留下反馈。
 
+![iamges](https://github.com/web3-crypto-lab/metaverse/blob/main/dosc/img/meta.jpeg)
+
 ## 资源来源
 
 [金色财经](https://www.jinse.com/)
